@@ -43,9 +43,9 @@
     </description>
 
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/reqanalyzer</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/contrib/extensions/reqanalyzer</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/contrib/extensions/reqanalyzer</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-reqanalyzer.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-org-apache-sling-reqanalyzer.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-org-apache-sling-reqanalyzer.git</url>
     </scm>
 
     <build>
