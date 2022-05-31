@@ -1,0 +1,2 @@
+Bundle-Category: sling
+Main-Class: org.apache.sling.reqanalyzer.impl.gui.Main
